@@ -1,0 +1,11 @@
+{
+  "name": "stripe-invoice-backend",
+  "version": "1.0.0",
+  "description": "Backend for processing invoice payments via Stripe",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
